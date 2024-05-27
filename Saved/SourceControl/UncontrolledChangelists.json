@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ankit/OneDrive/Documents/Unreal Projects/FirstUnrealGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ankit/OneDrive/Documents/Unreal Projects/FirstUnrealGame/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/ankit/OneDrive/Documents/Unreal Projects/FirstUnrealGame/Content/StarterContent/Maps/BP_Cube.uasset",
+				"C:/Users/ankit/OneDrive/Documents/Unreal Projects/FirstUnrealGame/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"C:/Users/ankit/OneDrive/Documents/Unreal Projects/FirstUnrealGame/Content/StarterContent/Maps/BP_Cube_Blueprint.uasset",
+				"C:/Users/ankit/OneDrive/Documents/Unreal Projects/FirstUnrealGame/Content/StarterContent/Maps/BarrelCarnage.umap",
+				"C:/Users/ankit/OneDrive/Documents/Unreal Projects/FirstUnrealGame/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset"
+			]
+		}
+	]
+}
